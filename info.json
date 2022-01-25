@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1023.2813000000002,
+    "videos": [
         "I Can`t Get Started - ELLA FITZGERALD AND NELSON RIDDLE-0HzofomuZtI.mp4",
         "Poncho k - Sol que se ausenta en estiercol - Acustico - Directo-aRTwkTUkW_E.mp4",
         "All Dark Graves-IxvaRJWzK9I.mp4",
@@ -93,7 +94,5 @@
         "So what!-rVt2txv8oKY.mp4",
         "Chihuahua-uJRXfkhJFaQ.mp4",
         "presiento que voy a llorar (MARCO ANTONIO SOLIS)-t2qNmM4hpnM.mp4"
-    ],
-    "id": "c2",
-    "total_size": 975.8772500000002
+    ]
 }
