@@ -2,6 +2,13 @@
     "available_space": false,
     "content": [
         {
+            "id": "a5uQMwRMHcs",
+            "name": "Daft Punk - Instant Crush (Video) ft. Julian Casablancas-a5uQMwRMHcs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c2/videos/Daft Punk - Instant Crush (Video) ft. Julian Casablancas-a5uQMwRMHcs.mp4",
+            "size": 9.596876,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Daft Punk - Instant Crush (Video) ft. Julian Casablancas-a5uQMwRMHcs.mp4?raw=true"
+        },
+        {
             "id": "D_0hy1lpRV8",
             "name": "Carlos Vega De Que Sirve-D_0hy1lpRV8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c2/videos/Carlos Vega De Que Sirve-D_0hy1lpRV8.mp4",
@@ -70,6 +77,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/c2/videos/presiento que voy a llorar (MARCO ANTONIO SOLIS)-t2qNmM4hpnM.mp4",
             "size": 7.904720999999999,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/presiento que voy a llorar (MARCO ANTONIO SOLIS)-t2qNmM4hpnM.mp4?raw=true"
+        },
+        {
+            "id": "W6WrOz4skKg",
+            "name": "Here Comes The Kraken - Beverly Hell (Lyric Video)-W6WrOz4skKg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c2/videos/Here Comes The Kraken - Beverly Hell (Lyric Video)-W6WrOz4skKg.mp4",
+            "size": 74.297979,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Here Comes The Kraken - Beverly Hell (Lyric Video)-W6WrOz4skKg.mp4?raw=true"
         },
         {
             "id": "yjb0j9l1sz4",
@@ -380,6 +394,13 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Alton Ellis - Rocksteady-BCif499DYeA.mp4?raw=true"
         },
         {
+            "id": "XIycEe59Auc",
+            "name": "America - Sister Golden Hair (HQ Original)-XIycEe59Auc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c2/videos/America - Sister Golden Hair (HQ Original)-XIycEe59Auc.mp4",
+            "size": 3.813196,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/America - Sister Golden Hair (HQ Original)-XIycEe59Auc.mp4?raw=true"
+        },
+        {
             "id": "3SWKANelCXU",
             "name": "Chuy vega   Asi Fue-3SWKANelCXU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c2/videos/Chuy vega   Asi Fue-3SWKANelCXU.mp4",
@@ -527,6 +548,13 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/You Think You're Tough - Ratt-rXWplKEUUB0.mp4?raw=true"
         },
         {
+            "id": "gPbSIXxDUeI",
+            "name": "Piero - El Trencito del oeste - 𝟏𝟗𝟕𝟓-gPbSIXxDUeI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c2/videos/Piero - El Trencito del oeste - 𝟏𝟗𝟕𝟓-gPbSIXxDUeI.mp4",
+            "size": 11.163509,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Piero - El Trencito del oeste - 𝟏𝟗𝟕𝟓-gPbSIXxDUeI.mp4?raw=true"
+        },
+        {
             "id": "arHf6Tn7QVU",
             "name": "Stratovarius - Night Screamer-arHf6Tn7QVU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c2/videos/Stratovarius - Night Screamer-arHf6Tn7QVU.mp4",
@@ -632,5 +660,5 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Poncho K - Kolegas (Directo Live)-_3XtpgWhDPY.mp4?raw=true"
         }
     ],
-    "total_size": 980.0704479999996
+    "total_size": 1078.9420079999995
 }
