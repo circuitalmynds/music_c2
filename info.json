@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "-XfBbBb9wJg",
@@ -49,13 +49,6 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Beastie Boys - Intergalactic-qORYO0atB6g.mp4",
             "size": 24.478537,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Beastie Boys - Intergalactic-qORYO0atB6g.mp4?raw=true"
-        },
-        {
-            "id": "XIycEe59Auc",
-            "name": "America - Sister Golden Hair 1975 (1977, HQ)-XIycEe59Auc.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/America - Sister Golden Hair 1975 (1977, HQ)-XIycEe59Auc.mp4",
-            "size": 12.705577,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/America - Sister Golden Hair 1975 (1977, HQ)-XIycEe59Auc.mp4?raw=true"
         },
         {
             "id": "W6WrOz4skKg",
@@ -114,13 +107,6 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Bobby Garrett - Rose City Chimes - From the cassette album - 'Thumbs Up'-mnkV7M-RvsI.mp4?raw=true"
         },
         {
-            "id": "a5uQMwRMHcs",
-            "name": "Daft Punk ft. Julian Casablancas - Instant Crush (Official Video)-a5uQMwRMHcs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Daft Punk ft. Julian Casablancas - Instant Crush (Official Video)-a5uQMwRMHcs.mp4",
-            "size": 15.991601,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Daft Punk ft. Julian Casablancas - Instant Crush (Official Video)-a5uQMwRMHcs.mp4?raw=true"
-        },
-        {
             "id": "hi4XrAF-Yc8",
             "name": "Bjork - Come To Me (MTV's 120 minutes) 1993-hi4XrAF-Yc8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Bjork - Come To Me (MTV's 120 minutes) 1993-hi4XrAF-Yc8.mp4",
@@ -154,13 +140,6 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Pesado - Tu propia muerte [Canciones con letra]-tp9uSmbY1uA.mp4",
             "size": 5.9785759999999994,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Pesado - Tu propia muerte [Canciones con letra]-tp9uSmbY1uA.mp4?raw=true"
-        },
-        {
-            "id": "2kXMcjKhBgU",
-            "name": "Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp4",
-            "size": 19.505732,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp4?raw=true"
         },
         {
             "id": "gyqdUdbl1HY",
@@ -203,13 +182,6 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Hermanos Vega A Mi Madre-ea1NtlHM93o.mp4",
             "size": 4.384363,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Hermanos Vega A Mi Madre-ea1NtlHM93o.mp4?raw=true"
-        },
-        {
-            "id": "W6WrOz4skKg",
-            "name": "Here Comes The Kraken - Beverly Hell (Lyric Video)-W6WrOz4skKg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Here Comes The Kraken - Beverly Hell (Lyric Video)-W6WrOz4skKg.mp4",
-            "size": 74.297979,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Here Comes The Kraken - Beverly Hell (Lyric Video)-W6WrOz4skKg.mp4?raw=true"
         },
         {
             "id": "86_bnWlFzYo",
@@ -289,20 +261,6 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Skid Row - 18 And Life (Official Music Video)-Ghd2bkIadG4.mp4?raw=true"
         },
         {
-            "id": "Ujg7xHZ-nrE",
-            "name": "Orchestral Manoeuvres In The Dark - Talking Loud And Clear-Ujg7xHZ-nrE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Orchestral Manoeuvres In The Dark - Talking Loud And Clear-Ujg7xHZ-nrE.mp4",
-            "size": 19.832812999999998,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Orchestral Manoeuvres In The Dark - Talking Loud And Clear-Ujg7xHZ-nrE.mp4?raw=true"
-        },
-        {
-            "id": "ZiqN-WV0RYw",
-            "name": "Japan - Swing-ZiqN-WV0RYw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Japan - Swing-ZiqN-WV0RYw.mp4",
-            "size": 11.692587,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Japan - Swing-ZiqN-WV0RYw.mp4?raw=true"
-        },
-        {
             "id": "j1DJf4NUW7I",
             "name": "Con un Ademán-j1DJf4NUW7I.mp4",
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Con un Ademán-j1DJf4NUW7I.mp4",
@@ -329,6 +287,13 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/@PATIA NO - Genocidio Tropical + Letra-JAyZhScH1uk.mp4",
             "size": 2.960647,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/@PATIA NO - Genocidio Tropical + Letra-JAyZhScH1uk.mp4?raw=true"
+        },
+        {
+            "id": "zDV_dBYp4h0",
+            "name": "Mr. Flagio - Take a Chance (Italo-disco 1983) [zDV_dBYp4h0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Mr. Flagio - Take a Chance (Italo-disco 1983) [zDV_dBYp4h0].mp4",
+            "size": 8.324905,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Mr. Flagio - Take a Chance (Italo-disco 1983) [zDV_dBYp4h0].mp4?raw=true"
         },
         {
             "id": "3xXnvr6UWHQ",
@@ -366,11 +331,11 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Shake 'n' Stomp-LKYSgVfw1dY.mp4?raw=true"
         },
         {
-            "id": "j802Z7PmLQM",
-            "name": "Un Canto a Galicia-j802Z7PmLQM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Un Canto a Galicia-j802Z7PmLQM.mp4",
-            "size": 9.406279999999999,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Un Canto a Galicia-j802Z7PmLQM.mp4?raw=true"
+            "id": "Ujg7xHZ-nrE",
+            "name": "Orchestral Manoeuvres In The Dark - Talking Loud And Clear [Ujg7xHZ-nrE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Orchestral Manoeuvres In The Dark - Talking Loud And Clear [Ujg7xHZ-nrE].mp4",
+            "size": 13.25892,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Orchestral Manoeuvres In The Dark - Talking Loud And Clear [Ujg7xHZ-nrE].mp4?raw=true"
         },
         {
             "id": "a5uQMwRMHcs",
@@ -406,13 +371,6 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Bireli Lagrene - Rue de Pierre, Part Two-bgJQtwiIhKY.mp4",
             "size": 4.661409,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Bireli Lagrene - Rue de Pierre, Part Two-bgJQtwiIhKY.mp4?raw=true"
-        },
-        {
-            "id": "zDV_dBYp4h0",
-            "name": "Mr. Flagio - Take a Chance (Italo-disco 1983)-zDV_dBYp4h0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Mr. Flagio - Take a Chance (Italo-disco 1983)-zDV_dBYp4h0.mp4",
-            "size": 8.324905,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Mr. Flagio - Take a Chance (Italo-disco 1983)-zDV_dBYp4h0.mp4?raw=true"
         },
         {
             "id": "UhytGQUOUf4",
@@ -469,13 +427,6 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/SIOUX - Hoy es mi día (DE VUELTA)-WsMF9mVn6Yo.mp4",
             "size": 8.486851,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/SIOUX - Hoy es mi día (DE VUELTA)-WsMF9mVn6Yo.mp4?raw=true"
-        },
-        {
-            "id": "gPbSIXxDUeI",
-            "name": "Piero - El trencito del oeste - 1975-gPbSIXxDUeI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Piero - El trencito del oeste - 1975-gPbSIXxDUeI.mp4",
-            "size": 11.829405999999999,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Piero - El trencito del oeste - 1975-gPbSIXxDUeI.mp4?raw=true"
         },
         {
             "id": "3SWKANelCXU",
@@ -541,13 +492,6 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Control Machete - Desde la Tierra (Tercer Planeta)-KFj8jrPhT8Q.mp4?raw=true"
         },
         {
-            "id": "suvxVcdRlr8",
-            "name": "OMD - Secret 1985-suvxVcdRlr8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/c2/videos/OMD - Secret 1985-suvxVcdRlr8.mp4",
-            "size": 17.760187,
-            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/OMD - Secret 1985-suvxVcdRlr8.mp4?raw=true"
-        },
-        {
             "id": "IxvaRJWzK9I",
             "name": "All Dark Graves-IxvaRJWzK9I.mp4",
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/All Dark Graves-IxvaRJWzK9I.mp4",
@@ -567,6 +511,20 @@
             "path": "/home/alanmatzumiya/Videos/container/c2/videos/Juhn - Recuerdos [Audio Cover con Letra] 🛁💏🛌-x3-WQsSEL4w.mp4",
             "size": 10.185153,
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Juhn - Recuerdos [Audio Cover con Letra] 🛁💏🛌-x3-WQsSEL4w.mp4?raw=true"
+        },
+        {
+            "id": "j802Z7PmLQM",
+            "name": "Un Canto a Galicia [j802Z7PmLQM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Un Canto a Galicia [j802Z7PmLQM].mp4",
+            "size": 9.279975,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Un Canto a Galicia [j802Z7PmLQM].mp4?raw=true"
+        },
+        {
+            "id": "ZiqN-WV0RYw",
+            "name": "Japan - Swing [ZiqN-WV0RYw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/c2/videos/Japan - Swing [ZiqN-WV0RYw].mp4",
+            "size": 9.161794,
+            "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Japan - Swing [ZiqN-WV0RYw].mp4?raw=true"
         },
         {
             "id": "vOeAxb7tT24",
@@ -660,5 +618,5 @@
             "url": "https://github.com/circuitalmynds/music_c2/blob/main/videos/Poncho k - Sol que se ausenta en estiercol - Acustico - Directo-aRTwkTUkW_E.mp4?raw=true"
         }
     ],
-    "total_size": 1078.9420079999998
+    "total_size": 917.6205349999998
 }
